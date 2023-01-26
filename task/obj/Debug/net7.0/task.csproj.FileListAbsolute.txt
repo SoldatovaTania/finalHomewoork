@@ -1,0 +1,15 @@
+/Users/tanya/Desktop/Учеба/Итоговый проект/task/bin/Debug/net7.0/task
+/Users/tanya/Desktop/Учеба/Итоговый проект/task/bin/Debug/net7.0/task.deps.json
+/Users/tanya/Desktop/Учеба/Итоговый проект/task/bin/Debug/net7.0/task.runtimeconfig.json
+/Users/tanya/Desktop/Учеба/Итоговый проект/task/bin/Debug/net7.0/task.dll
+/Users/tanya/Desktop/Учеба/Итоговый проект/task/bin/Debug/net7.0/task.pdb
+/Users/tanya/Desktop/Учеба/Итоговый проект/task/obj/Debug/net7.0/task.csproj.AssemblyReference.cache
+/Users/tanya/Desktop/Учеба/Итоговый проект/task/obj/Debug/net7.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanya/Desktop/Учеба/Итоговый проект/task/obj/Debug/net7.0/task.AssemblyInfoInputs.cache
+/Users/tanya/Desktop/Учеба/Итоговый проект/task/obj/Debug/net7.0/task.AssemblyInfo.cs
+/Users/tanya/Desktop/Учеба/Итоговый проект/task/obj/Debug/net7.0/task.csproj.CoreCompileInputs.cache
+/Users/tanya/Desktop/Учеба/Итоговый проект/task/obj/Debug/net7.0/task.dll
+/Users/tanya/Desktop/Учеба/Итоговый проект/task/obj/Debug/net7.0/refint/task.dll
+/Users/tanya/Desktop/Учеба/Итоговый проект/task/obj/Debug/net7.0/task.pdb
+/Users/tanya/Desktop/Учеба/Итоговый проект/task/obj/Debug/net7.0/task.genruntimeconfig.cache
+/Users/tanya/Desktop/Учеба/Итоговый проект/task/obj/Debug/net7.0/ref/task.dll
